@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8476e88e-ae60-4f11-980e-9f99ecd28c22" name="Default Changelist" comment="">
+    <list default="true" id="8476e88e-ae60-4f11-980e-9f99ecd28c22" name="Default Changelist" comment="Test">
+      <change afterPath="$PROJECT_DIR$/Matthias/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +17,10 @@
   <component name="ProjectId" id="1o1HgCkv4DHUBASeVuL1m6NR0a3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -29,6 +31,20 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -40,6 +56,8 @@
       <option name="presentableId" value="Default" />
       <updated>1612447285800</updated>
       <workItem from="1612447287699" duration="557000" />
+      <workItem from="1612449129383" duration="962000" />
+      <workItem from="1612450182484" duration="343000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1612447506344</created>
@@ -48,32 +66,33 @@
       <option name="project" value="LOCAL" />
       <updated>1612447506344</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test">
+      <created>1612449212078</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612449212078</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
     <option name="LAST_COMMIT_MESSAGE" value="Test" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="224" y="103" key="#Project_Structure" timestamp="1612448626137">
-      <screen x="0" y="23" width="1440" height="826" />
-    </state>
-    <state x="224" y="103" key="#Project_Structure/0.23.1440.826@0.23.1440.826" timestamp="1612448626137" />
-    <state x="187" y="43" key="CommitChangelistDialog2" timestamp="1612447506217">
-      <screen x="0" y="23" width="1440" height="826" />
-    </state>
-    <state x="187" y="43" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1612447506217" />
-    <state x="91" y="95" key="DiffContextDialog" timestamp="1612447471996">
-      <screen x="0" y="23" width="1440" height="826" />
-    </state>
-    <state x="91" y="95" key="DiffContextDialog/0.23.1440.826@0.23.1440.826" timestamp="1612447471996" />
-    <state x="1" y="42" key="new project wizard" timestamp="1612448611567">
-      <screen x="0" y="23" width="1440" height="826" />
-    </state>
-    <state x="1" y="42" key="new project wizard/0.23.1440.826@0.23.1440.826" timestamp="1612448611567" />
   </component>
 </project>

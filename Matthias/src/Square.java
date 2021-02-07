@@ -21,7 +21,7 @@ public class Square {
 
             for (int k = 0; k < choice; k++) {
 
-                System.out.print("* ");
+                System.out.print("*  ");
 
 
             }
